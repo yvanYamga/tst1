@@ -1,0 +1,1 @@
+MOI = input("quel est votre nom ?")
